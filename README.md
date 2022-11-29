@@ -2,7 +2,7 @@
 Đồ án năm 3 môn FrameWork
 
 # framework
-Đồ án web và framework:
+Đồ án web và framework: Hệ thống bán cà phê của công ty cafe Fivemen
 
 ## Giới thiệu về đồ án
 - Đồ án cửa hàng Decorate Stis là đồ án web đầu tiên của nhóm nên nhóm làm còn nhiều thiếu xót cũng như chưa được hoàn thiện nhiều
@@ -14,21 +14,23 @@
 	- Lọc theo danh mục
 	- ...
 ## Giới thiệu thành viên nhóm
-- Phạm Như Long		: https://www.facebook.com/phamnhulong3.3/
-- Lý Trần Thanh Thảo	: https://www.facebook.com/lttthao2601
-- Hoàng Ngọc Thảo Quyên	: https://www.facebook.com/Quyenn.hntq.1611
-- Bùi Bích Chăm		: https://www.facebook.com/bichcham201101
+- Trần Văn Quang: 
+- Võ Hoàng Phúc: 
+- Lê Công Thành: 
+- Nguyễn Hoàng Nhật:
+- Nguyễn Hữu Thắng:
 ## Đánh giá theo đóng góp
-- Long 30%
-- Thảo 30%
-- Quyên 25%
-- Chăm 15%
+- Quang 30%
+- Phúc 20%
+- Thành 20%
+- Nhật 15%
+- Thắng 15%
 ## Hướng dẫn cài đặt
 - Cài đặt Visual Studio 2019
 - Cài đặt SQL Server 2019
   - Đăng nhập github
-  - Truy cập https://github.com/PhamNhuLong/framework_IS220.M11_10.git và __clone__ code về máy
-  - Tạo database CuaHangDecorate bằng SQL Server 2019
+  - Truy cập https://github.com/congthanhle/framework_IS220.N11 và __clone__ code về máy
+  - Tạo database CuaHangFivemen bằng SQL Server 2019
 ## Cài đặt các gói nuget packages sau:
 - AspNetCoreHero.ToastNotification (1.1.0)
 - Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore (5.0.12)
@@ -43,8 +45,8 @@
 - Newtonsoft.Json (13.0.1)
 - PagedList.Core.Mvc (3.0.0)
 ## Tạo database và Insert dữ liệu
-__Tạo database CuaHangDecorate__
-```create database CuaHangDecorate;```  
+__Tạo database CuaHangFivemen_
+```create database CuaHangFivemen;```  
 
 __Tạo bảng Tài Khoản__
 ```CREATE   TABLE TAIKHOAN (
