@@ -1,8 +1,8 @@
-# PhamNhuLong-Web_Decorate_Stis
+# Framework
 Đồ án năm 3 môn FrameWork
 
-# framework_IS220.M11_10
-Đồ án web và framework: Cửa hàng trang trí Stis Decor
+# framework
+Đồ án web và framework:
 
 ## Giới thiệu về đồ án
 - Đồ án cửa hàng Decorate Stis là đồ án web đầu tiên của nhóm nên nhóm làm còn nhiều thiếu xót cũng như chưa được hoàn thiện nhiều
